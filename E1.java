@@ -1,6 +1,6 @@
 package lab2pooi2313215;
 import java.util.*;
-public class Ejercici1 {
+public class E1 {
     public static void main(String[] args) {
         Scanner in  = new Scanner(System.in);
         System.out.print("ingrese un número a evaluar: ");
@@ -28,3 +28,4 @@ public class Ejercici1 {
     }
     
 }
+
